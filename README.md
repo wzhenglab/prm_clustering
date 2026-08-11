@@ -1,11 +1,18 @@
-This repository contains the computational data used to generate Figure 4 in the manuscript 
+# Data for Group-6 Propane Monooxygenase Study
+
+This repository contains the underlying data used to generate Figures 2–4 in the manuscript:
 
 *Divergent catalytic strategies of group-6 propane monooxygenases in propane-stimulated 1,4-dioxane biodegradation*
 
-The files included here provide the pocket descriptors calculated from AlphaFold-predicted structures and the statistical analysis used to identify features that distinguish Group-6 propane monooxygenase (PRM) clusters.
+The repository is organized by figure:
 
-`pockets_summary.csv` Summary of pocket descriptors calculated for all PRM sequences in this study, as shown in Figure 4c.
+- **Fig2_oxidation/**  
+  Experimental data underlying the substrate oxidation analyses presented in Figure 2.
 
-`feature_ranking_metrics.csv` Results of the feature-ranking analysis shown in Figure 4b. For each pocket descriptor.
+- **Fig3_kinetics/**  
+  Experimental data underlying the kinetic analyses presented in Figure 3.
 
-`structure\` AlphaFold-predicted PRM structures used for pocket analysis. Catalytic diiron centers were added for structural visualization and analysis.
+- **Fig4_computation/**  
+  Computational data underlying the structural and statistical analyses presented in Figure 4.
+
+Each directory contains a separate README file describing the included datasets and their relationship to the corresponding figure.
