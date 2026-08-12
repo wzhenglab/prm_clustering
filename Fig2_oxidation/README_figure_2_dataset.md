@@ -37,6 +37,7 @@ measurements are retained as separate rows.
   `concentration_mM`                  Measured substrate concentration at
                                       the indicated sampling time, in
                                       millimolar (mM; mmol/L).
+
   -----------------------------------------------------------------------
 
 ## Notes
