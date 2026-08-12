@@ -57,6 +57,7 @@ oxidation by the indicated PRMs.
                                       substrate/h/mg-protein**; for
                                       propane, velocity is reported in
                                       **µmol substrate/h/mg-protein**.
+
   -----------------------------------------------------------------------
 
 ## `figure_3_kinetic_ppb.csv`
@@ -89,6 +90,7 @@ ppb level for E11 PRM-II and ENV421 PRM-III.
 
   `velocity`                              Initial linear dioxane oxidation velocity
                                           reported in **µg/h/mg-protein**.
+
   ---------------------------------------------------------------------------
 
 ## Notes
